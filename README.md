@@ -1,6 +1,5 @@
-## Large Language Model
+## Large Language Model Resources:
 
-LLM Papers
 
 <!--
 Datasets for Large Language Models: : https://arxiv.org/pdf/2402.18041
