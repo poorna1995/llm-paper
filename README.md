@@ -1,6 +1,5 @@
 ## Large Language Model Resources:
 
-
 <!--
 Datasets for Large Language Models: : https://arxiv.org/pdf/2402.18041
 Awesome-LLMs-Datasets: https://github.com/lmmlzn/Awesome-LLMs-Datasets?tab=readme-ov-file#general-pre-training-corpora
@@ -32,9 +31,11 @@ XAI : https://www.youtube.com/watch?v=8EQwpmK49sk&list=PLPTV0NXA_ZShaln9GfiHO_c0
 |                               | [Evaluation of OpenAI o1 - paper](https://arxiv.org/pdf/2409.18486)                                                                                                 |
 |                               | [Scaling and evaluating sparse autoencoders - paper](https://arxiv.org/pdf/2406.04093)                                                                              |
 |                               | [Building LLM Applications - Evaluation - blog](https://medium.com/@vipra_singh/building-llm-applications-evaluation-part-8-fcfa2f22bd1c#80c9)                      |
+|                               | [Awesome-LLMs-Evaluation-Papers - github](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers?tab=readme-ov-file)                                          |
 | **Transformer Architectures** | [Transformer Math - blog](https://blog.eleuther.ai/transformer-math/)                                                                                               |
 | **PyTorch Basics**            | [Pytorch Basics - youtube](https://www.youtube.com/@machinelearningwithpytorch/videos)                                                                              |
 | **Neural Network Basics**     | [Neural Network Basics - youtube](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)                                              |
 | **Explainable AI (XAI)**      | [A Comprehensive Guide to Explainable AI - paper](https://arxiv.org/pdf/2412.00800)                                                                                 |
 |                               | [XAI - youtube](https://www.youtube.com/watch?v=8EQwpmK49sk&list=PLPTV0NXA_ZShaln9GfiHO_c0HzOSqLOGv)                                                                |
 | **Hands-On Learning**         | [Hands-On-Large-Language-Models - github](https://github.com/HandsOnLLM/Hands-On-Large-a-Models)                                                                    |
+|                               |
